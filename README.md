@@ -1,2 +1,2 @@
-# Encryption-And-Decryption-Project
-encryption and decryption
+# encryption-decryption-technique
+encryption decryption technique
